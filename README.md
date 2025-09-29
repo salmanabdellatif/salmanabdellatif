@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=salmanabdellatif.salmanabdellatif&"  />
-</div>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SALMAN!;" />
 </h1>
@@ -69,10 +65,10 @@
 </h3>
 
 <div>
-  <a href="https://www.linkedin.com/in/salmanasfour/" target="_blank">
+  <a href="https://www.linkedin.com/in/salmanabdellatif/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:salman.abdellatif0@gmail.com" target="_blank">
+  <a href="mailto:salman.mo20201@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://twitter.com/s_3asfour" target="_blank">
@@ -91,7 +87,7 @@
 ### Project 1: [LuxeLane](https://github.com/salmanabdellatif/luxelane)
 A Full Stack E-commerce website in MERN
 
-### Project 2: [Blog](https://github.com/salmanabdellatif/Blog)
+### Project 2: [Blog](https://github.com/salmanabdellatif/EhyaBlog)
 A Simple Blog website in MERN 
 
 </div>
