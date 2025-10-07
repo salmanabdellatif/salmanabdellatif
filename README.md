@@ -75,19 +75,3 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
-
-<br/>
-<hr/>
-
-<h2 align="center">🚀 Projects 🚀</h2>
-<br/>
-
-<div align="center">
-  
-### Project 1: [LuxeLane](https://github.com/salmanabdellatif/luxelane)
-A Full Stack E-commerce website in MERN
-
-### Project 2: [Blog](https://github.com/salmanabdellatif/EhyaBlog)
-A Simple Blog website in MERN 
-
-</div>
