@@ -22,5 +22,5 @@
 ### Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,nestjs,express,prisma,mongo,postgres,python,c,cpp,docker,git,github,gitlab,npm,pnpm,postman,netlify,supabase,jest,graphql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,nestjs,express,graphql,prisma,mongo,postgres,python,c,cpp,docker,git,github,gitlab,npm,pnpm,postman,netlify,supabase,jest" />
 </div>
